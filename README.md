@@ -24,7 +24,8 @@ samples, guidance on mobile development, and a full API reference.
 - Christian Alcantara a.21308051280308@cbtis128.edu.mx
 
 ## resultado de mi Aplicacion en Flutter
-![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/63a25b45-c1cb-4197-9f75-eeeef3a80e0c)
-![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/3fd21c67-75b3-43ba-aaa4-50e667c1b14e)
+![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/be2a23d8-e8fc-4aa5-9417-2b04d1131fca)
+![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/c70ae8b2-6759-49fe-b5db-0c2884f7f8dc)
+
 
 
