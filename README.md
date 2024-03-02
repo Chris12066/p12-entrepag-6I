@@ -27,5 +27,5 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/be2a23d8-e8fc-4aa5-9417-2b04d1131fca)
 ![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/c70ae8b2-6759-49fe-b5db-0c2884f7f8dc)
 
-
-
+![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/025cc1e9-0de2-4284-8194-0518cda0924a)
+![image](https://github.com/Chris12066/p12-entrepag-6I/assets/143772165/a182a807-9b14-403a-ba22-e58b1cf4f094)
